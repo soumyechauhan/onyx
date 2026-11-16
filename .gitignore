@@ -29,3 +29,7 @@ frames_*
 # Tool artifacts
 .antigravitycli
 digest*.txt
+
+# Backup files
+*.backup
+*_backup.yaml
